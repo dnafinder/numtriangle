@@ -39,7 +39,7 @@ function pm = pascaltriangle(n)
 %        1     5    10    10     5     1
 %
 % See also bernoullitriangle, leibniztriangle, lozanictriangle, ...
-%          mosernumber, rascaltriangle
+%          mosernumber, rascaltriangle, sierpinskitriangle
 %
 %   Created by Giuseppe Cardillo
 %   giuseppe.cardillo.75@gmail.com
